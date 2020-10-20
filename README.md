@@ -1,5 +1,7 @@
 # Simple Azure Virtual Machines Manager
 
+:warning: **REPOSITORY NOT ACTIVE SINCE 2015 Dependabot alerts disabled**
+
 Simple Azure Virtual Machines Manager is minimalistic web portal to start and stop Azure virtual machines.
 It enables you to start, stop and connect to virtual machines in Microsoft Azure. It might be very useful in cases:
 
